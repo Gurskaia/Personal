@@ -1,0 +1,39 @@
+body {
+  color: rgb(48, 31, 13);
+  background-color: rosybrown;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: moccasin;
+  width: 5%;
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(48, 26, 2);
+}
+
+.button {
+  background-color: rgb(213, 213, 229);
+}
+.button:hover {
+  background-color: rgb(162, 193, 193);
+}
+
+input {
+  border: 3px solid grey;
+  border-radius: 3px;
+}
+
+
+input:autofill {
+  border: 3px solid rgb(228, 228, 240);
+}
+
+a:hover{
+    background-color: rgb(146, 192, 192);
+}
+
